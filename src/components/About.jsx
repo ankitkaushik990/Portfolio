@@ -14,22 +14,26 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          A seasoned MERN Stack Developer proficient in building robust and
-          scalable web applications. Expertise in crafting efficient front-end
-          interfaces using React and responsive design principles. Profound
-          knowledge of Node.js and MongoDB for creating dynamic and performant
-          back-end systems. Passionate about leveraging modern technologies to
-          create exceptional user experiences
+          "I am an experienced software developer with a year of hands-on
+          experience specializing in crafting robust and scalable backend
+          systems. Proficient in Node.js and MongoDB, I excel in creating
+          dynamic and performant applications. Additionally, I have expertise in
+          React for frontend development, focusing on building efficient user
+          interfaces. Passionate about delivering exceptional user experiences,
+          I am committed to staying updated with the latest technologies and
+          techniques in software development.
         </p>
 
         <br />
 
         <p className="text-xl">
-          I possess 6 months of hands-on experience in MERN Stack development
-          and have served as a dedicated Full Stack intern for an additional 6
-          months. Skilled in creating dynamic web applications using React,
-          Node.js, Express, and MongoDB. Committed to delivering efficient and
-          innovative solutions.
+          "With a solid foundation in Node.js, MongoDB, and React, I possess a
+          comprehensive understanding of modern software development
+          technologies. Throughout my experience, I've honed my skills in
+          creating backend systems that meet the evolving needs of users.
+          Committed to efficiency and innovation, I am eager to tackle new
+          challenges and contribute to cutting-edge projects in the field of
+          software development.
         </p>
       </div>
     </div>
