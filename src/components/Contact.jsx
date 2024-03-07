@@ -16,7 +16,7 @@ const Contact = () => {
 
         <div className=" flex justify-center items-center">
           <form
-            action="https://getform.io/f/2680b114-3d3e-4d1a-8e12-69ab00793c71"
+            action="https://mailharbor.onrender.com/msg/send"
             method="POST"
             className=" flex flex-col w-full md:w-1/2"
           >
